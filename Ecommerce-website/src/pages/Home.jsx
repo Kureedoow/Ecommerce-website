@@ -9,7 +9,7 @@ const Home = () => {
       <Nerbar />
       <Sidebar />
       <Banner />
-      <Footer></Footer>
+      <Footer />
     </div>
   );
 };
